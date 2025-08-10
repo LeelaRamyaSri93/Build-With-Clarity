@@ -1,8 +1,10 @@
-title: This Isn’t a Success Story…Yet
-original:
+**Title:** This Isn’t a Success Story…Yet  
+**Original:**
   - [Published on Hashnode](https://ramyakaruturi.hashnode.dev/this-isnt-a-success-storyyet)
   - [Also on DEV Community](https://dev.to/ramyakaruturi/this-isnt-a-success-storyyet-44a6)
-tags: [learning-journey, cloud-native, data-engineering]
+**Tags:** [learning-journey, cloud-native, data-engineering]
+
+---
 
 Hey there! I’m Ramya—an undergraduate in Artificial Intelligence and Data Science, steadily navigating my way into cloud-native data engineering.
 
