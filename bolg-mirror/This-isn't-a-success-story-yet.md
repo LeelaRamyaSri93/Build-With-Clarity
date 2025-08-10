@@ -8,8 +8,7 @@
 
 ---
 
-> A 6-month journey to grow my skills — one tool, one challenge, one reflection at a time.
-Unpolished but progressing: dispatches from a perpetual learner
+> Unpolished but progressing: dispatches from a perpetual learner
 
 ---
 Hey there! I’m Ramya—an undergraduate in Artificial Intelligence and Data Science, steadily navigating my way into cloud-native data engineering.
