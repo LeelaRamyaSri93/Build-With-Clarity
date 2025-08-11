@@ -16,3 +16,4 @@ This space is for honest documentation, thoughtful growth, and sharing my learni
 
 - [Hashnode Blog](https://hashnode.com/@ramyakaruturi)
 - [Dev Profile](https://dev.to/ramyakaruturi)
+- [Notion](https://www.notion.so/Scaling-Myself-2404eceb2912805c9beccee5983fb984)
