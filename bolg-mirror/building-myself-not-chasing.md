@@ -86,4 +86,4 @@ Drop a comment if you’re building yourself too — I’d love to learn from yo
 - 💼 [LinkedIn](https://www.linkedin.com/in/ramya-sri-karuturi) – Professional updates and community  
 - 🧠 [Dev Community](https://dev.to/ramyakaruturi) – Technical deep dives and build-in-public posts
 - 🧠 [Hash Node](https://hashnode.com/@ramyakaruturi) – Technical deep dives and build-in-public posts
-- 🧭 [Notion](https://notion.so/your-space) – My go-to space for structured learning and shared growth
+- 🧭 [Notion](https://www.notion.so/Scaling-Myself-2404eceb2912805c9beccee5983fb984) – My go-to space for structured learning and shared growth
