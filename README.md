@@ -1,6 +1,6 @@
 # build-with-clarity
 
-Welcome to my personal repository—built with clarity to document my reflections, growth, and journey as an intentional engineer.
+Welcome to my personal repository—build with clarity to document my reflections, growth, and journey as an intentional engineer.
 
 ## 📘 What’s Inside
 
