@@ -36,7 +36,8 @@ Covered:
 
 ## 🧠 Aptitude  
 Practiced number system concepts to sharpen problem-solving.  
-Focused on:
+
+**Focused on:**
 - Divisibility rules and Problems 
 - Unit digit Problems  
 - Remainder theorem Problems
