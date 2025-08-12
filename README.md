@@ -4,10 +4,9 @@ Welcome to my personal repository—build with clarity to document my reflection
 
 ## 📘 What’s Inside
 
-- **Reflections**: Weekly thoughts and learnings.
+- **Reflections**: Daily documentation and weekly synthesis. These entries reflect my hands-on practice, evolving clarity, and commitment to intentional engineering.
 - **Blog Mirror**: Markdown versions of my public blog posts.
-- **Resources**: Notes, guides, and helpful links.
-
+- **Resources**: Notes, guides, and helpful links that support my learning.
 ## 🎯 Purpose
 
 This space is for honest documentation, thoughtful growth, and sharing my learning journey with clarity and intention.
