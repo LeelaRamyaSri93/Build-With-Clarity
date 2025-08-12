@@ -1,4 +1,4 @@
-# Week 01 Reflection
+# Week 0 Reflection
 
 This marks the beginning of something I’ve been quietly building toward—my space to document, reflect, and grow with clarity.
 
