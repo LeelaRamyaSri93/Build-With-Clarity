@@ -2,7 +2,7 @@
 
 ## 🧭 Topics Covered Today  
 - Linux  
-- Cloud  
+- Cloud(AWS) 
 - Aptitude  
 
 ---
@@ -20,7 +20,7 @@ Explored:
 
 ---
 
-## ☁️ Cloud  
+## ☁️ Cloud(AWS)
 Built foundational understanding of cloud computing.  
 Covered:
 - What is Cloud and its significance in modern tech  
