@@ -25,5 +25,7 @@
   - `less`, `head`, `tail`
   - `grep`, `find`, `locate`
 ---
-> "While exploring Linux commands, I got stuck on understanding what GNOME really is. I tried searching, but nothing clicked—until I used analogy-based reasoning: GNOME : Linux :: Explorer : Windows. That comparison finally made it clear—GNOME is the graphical interface for Linux, just like Explorer is for Windows."
+- While exploring Linux commands, I got stuck on understanding what GNOME really is. I tried searching, but nothing clicked—until I used analogy-based reasoning: GNOME : Linux :: Explorer : Windows. That comparison finally made it clear—GNOME is the graphical interface for Linux, just like Explorer is for Windows.
+
+---
 
