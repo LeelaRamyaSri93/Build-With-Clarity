@@ -3,8 +3,6 @@
 
 ## 🧭 Topics Covered Today  
 - Linux 
-- Cloud(AWS)
-- Aptitude
 
 ---
 
