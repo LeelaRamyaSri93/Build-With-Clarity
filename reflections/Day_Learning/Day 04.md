@@ -28,4 +28,4 @@ Explored AWS’s Shared Responsibility Model and interface fundamentals.
 ---
 
 ## 🌱 Reflection
-> “Security begins with clarity—knowing what you control and what you delegate.”
+> “Security begins with clarity knowing what you control and what you delegate.”
