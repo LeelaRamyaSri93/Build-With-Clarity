@@ -47,4 +47,4 @@ Practiced number system concepts to sharpen problem-solving.
 ## 🌱 Reflection  
 > “Strong buildings are built on deep foundations. The same goes for learning — mastering the basics is not optional, it's essential.”
 
-No filler, no fluff — just honest progress toward foundational mastery.
+No filler, no fluff just honest progress toward foundational mastery.
