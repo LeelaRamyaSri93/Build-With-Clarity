@@ -17,6 +17,6 @@ Dived into behavioral queries that reveal customer patterns and product relation
 ---
 
 ## 🌱 Reflection
-> “Some queries made me pause—not because they were hard, but because they made me think differently.”
+> “Some queries made me pause not because they were hard, but because they made me think differently.”
 
-I found myself staring at the screen, wondering how to express behavior in SQL. Once the queries worked, I was surprised—was that all it took? The logic was deep, but the syntax was elegant. Today reminded me that insight often hides behind simplicity.
+I found myself staring at the screen, wondering how to express behavior in SQL. Once the queries worked, I was surprised was that all it took? The logic was deep, but the syntax was elegant. Today reminded me that insight often hides behind simplicity.
