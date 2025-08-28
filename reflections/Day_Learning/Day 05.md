@@ -26,4 +26,4 @@ Built foundational understanding of IAM.
 ---
 
 ## 🌱 Reflection
-> “Access is power—but only when granted wisely.”
+> “Access is power but only when granted wisely.”
