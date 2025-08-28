@@ -49,4 +49,4 @@ Practiced HCF & LCM concepts to sharpen problem-solving.
 ## 🌱 Reflection  
 > “Start simple. Build clarity. Practice with intention.”
 
-Felt grounded today — each topic was explored with purpose, and my Linux workspace is now ready for authentic practice. Tomorrow, I plan to begin core command exploration and deepen subnet calculations with real-world scenarios.
+Felt grounded today each topic was explored with purpose, and my Linux workspace is now ready for authentic practice. 
