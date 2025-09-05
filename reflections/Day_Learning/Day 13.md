@@ -15,6 +15,3 @@ Dived deeper into behavioral queries that segment customers, detect anomalies, a
 - Order frequency distribution (bucketed customer counts)
 ---
 
-## 🌱 Reflection  
-> “Behavior isn’t just about what people do it’s about when, how often, and how much.”
-
