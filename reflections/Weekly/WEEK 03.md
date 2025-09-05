@@ -44,6 +44,3 @@ Window functions felt tricky at first. I paused, broke them down, and realized:
 > “Problems feel big until you understand the concept behind them.”
 
 This week taught me how to think in terms of relationships, not just rows. Querying became less about syntax and more about logic.
-
-
-> “Data isn’t just stored — it’s understood.”
