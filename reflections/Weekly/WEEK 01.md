@@ -16,4 +16,3 @@ AWS introduced me to the cloud’s architecture and responsibility boundaries. T
 
 > “Strong buildings are built on deep foundations. The same goes for learning.”
 
-This week was my foundation. And I built it with intention.
