@@ -2,7 +2,7 @@
 *A space to trace growth layer by layer, week by week.*
 
 ---
-## Week 1 Reflection (Day 10 to Day 13)
+## Week 3 Reflection (Day 10 to Day 13)
 
 This week was all about PostgreSQL. I shifted from infrastructure to data designing schemas, inserting realistic records, and solving queries that mirrored real-world business logic.
 
