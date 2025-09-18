@@ -1,4 +1,4 @@
-# 📅 Day 18 — Thursday (12/09/2025)
+# 📅 Day 18 — Friday (12/09/2025)
 
 ## 🧭 Topics Covered Today
 
