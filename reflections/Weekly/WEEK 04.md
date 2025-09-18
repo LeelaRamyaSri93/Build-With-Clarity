@@ -28,12 +28,12 @@ This week focused on applying foundational skills through a hands-on ETL pipelin
 ## 📚 Documentation  
 Each phase is documented in detail:
 
-- [Extract Phase](docs/Extract_Phase.md)  
-- [Transform Phase](docs/Transform_Phase.md)  
-- [Load Phase](docs/Load_Phase.md)  
+- [Extract Phase](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/blob/main/docs/Extract_Phase.md)  
+- [Transform Phase](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/blob/main/docs/Transform_Phase.md)  
+- [Load Phase](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/blob/main/docs/Load_Phase.md)  
 
 ## 🖼️ Visual Reference  
-![ETL Workflow](docs/Linux_ETL_Pipeline_WORKFLOW.png)
+![ETL Workflow](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/blob/main/docs/Linux_ETL_Pipeline_WORKFLOW.png)
 
 ## 🔗 Repository  
 [Linux_ETL_Pipeline](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/tree/main)
