@@ -23,7 +23,10 @@ This week focused on applying foundational skills through a hands-on ETL pipelin
 - `scripts/`: Shell and Python scripts for each ETL phase  
 - `data/`: Raw and processed CSV files  
 - `sql/`: Database schema and queries  
-- `docs/`: Phase-wise documentation and visuals  
+- `docs/`: Phase-wise documentation and visuals
+  
+## 🔗 Repository  
+[Linux_ETL_Pipeline](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/tree/main)
 
 ## 📚 Documentation  
 Each phase is documented in detail:
@@ -34,8 +37,5 @@ Each phase is documented in detail:
 
 ## 🖼️ Visual Reference  
 ![ETL Workflow](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/blob/main/docs/Linux_ETL_Pipeline_WORKFLOW.png)
-
-## 🔗 Repository  
-[Linux_ETL_Pipeline](https://github.com/LeelaRamyaSri93/Linux_ETL_Pipeline/tree/main)
 
 > "This wasn’t a complex project but it was complete. Building it myself gave me the confidence to design more pipelines from different data sources, with deeper clarity and control."
