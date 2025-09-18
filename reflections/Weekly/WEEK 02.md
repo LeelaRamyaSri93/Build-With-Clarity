@@ -2,7 +2,7 @@
 *A space to trace growth layer by layer, week by week.*
 
 ---
-## Week 2 Reflection (Day 05 to Day 08)
+## Week 2 Reflection (Day 05 to Day 09)
 
 Week 2 felt like stepping into deeper waters with more confidence, more curiosity, and more control.
 
