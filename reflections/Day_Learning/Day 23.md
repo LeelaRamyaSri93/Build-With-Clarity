@@ -1,4 +1,4 @@
-# 📅 Day 23 — Thursday (19/09/2025)
+# 📅 Day 23 — Friday (19/09/2025)
 
 ## 🧭 Topics Covered Today
 
