@@ -27,14 +27,16 @@ Each day layered new responsibilities from managing users to securing ports.
 Cloud concepts started to feel intuitive. I wasn’t just launching services I was thinking about lifecycle, access, and automation.
 
 **What I learned:**
-
-> "Each day’s log captured not just *what* I did, but *why* it mattered."
-
-- My AWS notes evolved into mini playbooks: EC2 setup steps, Lambda triggers, S3 lifecycle configs.
+- EC2 isn’t just a virtual machine—it’s a configurable environment. I practiced choosing instance types, setting up SSH access, and defining security groups with intention.
+- Lambda introduced me to serverless logic. I built functions, connected triggers, and saw how cloud-native workflows reduce infrastructure overhead.
+- S3 became more than storage. I hosted static sites, wrote bucket policies, and configured versioning and lifecycle rules to manage data over time.
+- IAM roles taught me how identity and access shape everything. I practiced assigning roles to EC2 and enabling MFA for secure operations.
+> My AWS notes evolved into mini playbooks: EC2 setup steps, Lambda triggers, S3 lifecycle configs.
 
 ---
 
 ## 🧩 What Changed
-
 - I started thinking in workflows how Linux scripts and AWS services can work together.
 - I realized that good documentation is a form of storytelling. It helps others (and future me) understand the journey, not just the destination.
+> "Each day’s log captured not just *what* I did, but *why* it mattered."
+
