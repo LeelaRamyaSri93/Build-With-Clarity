@@ -2,7 +2,7 @@
 *A space to trace growth layer by layer, week by week.*
 
 ---
-## Week 6 Reflection (Day 27 to Day 31)
+## Week 7 Reflection (Day 27 to Day 31)
 ---
 
 This week marked a shift from raw data access to **structured extraction**. I moved beyond requests and into the realm of parsing learning how to interpret HTML, navigate tags, and build resilient scraping flows. From BeautifulSoup fundamentals to Scrapy’s architecture, I began shaping modular pipelines that can scale across websites and use cases.
